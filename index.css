@@ -1,4 +1,4 @@
-/* Ajustes generales */
+
 body {
     margin: 0;
     padding: 0;
@@ -109,7 +109,7 @@ body {
 
   .titulo2 {
     color: #b3b0ae;
-    font-size: 36px; /* Aumentar el tamaño de la fuente */
+    font-size: 36px; 
     font-family: 'Georgia', serif;
     text-align: center;
     margin-top: 40px;
@@ -120,7 +120,7 @@ body {
 
   
   .titulo2-shadow {
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Añadir sombra al texto */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
   .product-card {
@@ -129,11 +129,11 @@ body {
     border-radius: 5px;
     background-color: #1f1f1f;
     margin-bottom: 30px;
-    text-align: center; /* Centra todo el contenido */
+    text-align: center;
     transition: transform 0.3s ease;
   }
   .product-card:hover {
-    transform: scale(1.05); /* Escala la tarjeta al pasar el ratón */
+    transform: scale(1.05); 
   }
   .product-card img {
     border-radius: 5px;
@@ -168,21 +168,21 @@ body {
 
   .hr {
     border: 0;
-    height: 3px; /* Grosor de la línea */
-    background-color: #b3b0ae; /* Color de la línea */
-    width: 80%; /* Ancho de la línea */
-    margin: 10px auto; /* Centrar la línea */
-    border-radius: 2px; /* Esquinas redondeadas para un toque suave */
+    height: 3px; 
+    background-color: #b3b0ae; 
+    width: 80%; 
+    margin: 10px auto;
+    border-radius: 2px; 
     margin-bottom: 2%;
   }
   
   .social-icons a {
-    font-size: 24px; /* Tamaño de los iconos */
+    font-size: 24px; 
     text-decoration: none;
-    color: #b3b0ae; /* Color inicial de los iconos */
+    color: #b3b0ae;
   }
   
   .social-icons a:hover {
-    color: #f39c12; /* Color de los iconos al pasar el ratón */
+    color: #f39c12;
   }
   
