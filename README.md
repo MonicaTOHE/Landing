@@ -7,11 +7,6 @@ Este es un sitio web responsivo para una concesionaria de autos de lujo. Muestra
 - [Introducción](#introducción)
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Comenzando](#comenzando)
-- [Uso](#uso)
-- [Contribuyendo](#contribuyendo)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Introducción
 
